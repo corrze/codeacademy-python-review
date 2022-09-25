@@ -1,0 +1,7 @@
+echo "# codeacademy-python-review" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/corrze/codeacademy-python-review.git
+git push -u origin main
